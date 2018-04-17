@@ -2,3 +2,4 @@
 
 ### Cheatsheets:
 * Numpy
+* PostgreSQL
