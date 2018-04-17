@@ -1,2 +1,4 @@
-# Cheatsheets
-Cheatsheets for many things!
+# Cheatsheets for many things!
+
+### Cheatsheets:
+* Numpy
