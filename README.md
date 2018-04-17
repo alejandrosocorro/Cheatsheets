@@ -1,2 +1,2 @@
-# Cheatsheets-
+# Cheatsheets
 Cheatsheets for many things!
